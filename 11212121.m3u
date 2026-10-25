@@ -4,3 +4,6 @@ http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Pce1.png" group-title="",Россия 1
 http://cdn.balelbrus.com/bigteisti8/russia1_orig/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
+#EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TNTHD.png",ТНТ HD
+#EXTINF:0 tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TNT4HD.png" group-title="欧洲频道",ТНТ4 HD
+http://s06.wsbof.com:8090/s/9b6f8047/tnt4-hd-orig.m3u8
