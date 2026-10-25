@@ -1,187 +1,206 @@
-#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml" tvg-shift="0"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-1
-http://123.10.79.112:808/hls/1/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-2
-http://123.10.79.112:808/hls/2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-3
-http://123.10.79.112:808/hls/3/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-4
-http://123.10.79.112:808/hls/4/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-5
-http://123.10.79.112:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-6
-http://123.10.79.112:808/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-7
-http://123.10.79.112:808/hls/7/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-8
-http://123.10.79.112:808/hls/8/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-9
-http://123.10.79.112:808/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-11
-http://123.10.79.112:808/hls/11/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-10
-http://123.10.79.112:808/hls/10/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-12
-http://123.10.79.112:808/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-13
-http://123.10.79.112:808/hls/13/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-14
-http://123.10.79.112:808/hls/14/index.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CGTN
-http://123.10.79.112:808/hls/16/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",CCTV-15
-http://123.10.79.112:808/hls/15/index.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南卫视
-http://123.10.79.112:808/hls/17/index.m3u8
-#EXTINF:-1 tvg-id="河南都市频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南都市频道
-http://123.10.79.112:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-id="河南民生频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南民生频道
-http://123.10.79.112:808/hls/19/index.m3u8
-#EXTINF:-1 tvg-id="河南法治频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南法治频道
-http://123.10.79.112:808/hls/20/index.m3u8
-#EXTINF:-1 tvg-id="河南电视剧频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南电视剧频道
-http://123.10.79.112:808/hls/21/index.m3u8
-#EXTINF:-1 tvg-id="河南新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南新闻频道
-http://123.10.79.112:808/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="河南公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南公共频道
-http://123.10.79.112:808/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="新农村频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",新农村频道
-http://123.10.79.112:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="河南国际频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南国际频道
-http://123.10.79.112:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-id="河南梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南梨园频道
-http://123.10.79.112:808/hls/27/index.m3u8
-#EXTINF:-1 tvg-id="河南武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南武术世界
-http://123.10.79.112:808/hls/29/index.m3u8
-#EXTINF:-1 tvg-id="河南文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南文物宝库
-http://123.10.79.112:808/hls/28/index.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",湖南卫视
-http://123.10.79.112:808/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",江苏卫视
-http://123.10.79.112:808/hls/34/index.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",浙江卫视
-http://123.10.79.112:808/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",北京卫视
-http://123.10.79.112:808/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",东方卫视
-http://123.10.79.112:808/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",天津卫视
-http://123.10.79.112:808/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",山东卫视
-http://123.10.79.112:808/hls/39/index.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",安徽卫视
-http://123.10.79.112:808/hls/40/index.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",深圳卫视
-http://123.10.79.112:808/hls/41/index.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",江西卫视
-http://123.10.79.112:808/hls/42/index.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",湖北卫视
-http://123.10.79.112:808/hls/43/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",黑龙江卫视
-http://123.10.79.112:808/hls/45/index.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",四川卫视
-http://123.10.79.112:808/hls/44/index.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",云南卫视
-http://123.10.79.112:808/hls/46/index.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",贵州卫视
-http://123.10.79.112:808/hls/47/index.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",辽宁卫视
-http://123.10.79.112:808/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",东南卫视
-http://123.10.79.112:808/hls/49/index.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",重庆卫视
-http://123.10.79.112:808/hls/50/index.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",广东卫视
-http://123.10.79.112:808/hls/51/index.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",广西卫视
-http://123.10.79.112:808/hls/52/index.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河北卫视
-http://123.10.79.112:808/hls/53/index.m3u8
-#EXTINF:-1 tvg-id="旅游卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",旅游卫视
-http://123.10.79.112:808/hls/54/index.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",吉林卫视
-http://123.10.79.112:808/hls/55/index.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",山西卫视
-http://123.10.79.112:808/hls/56/index.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",陕西卫视
-http://123.10.79.112:808/hls/57/index.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",甘肃卫视
-http://123.10.79.112:808/hls/58/index.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",宁夏卫视
-http://123.10.79.112:808/hls/59/index.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",青海卫视
-http://123.10.79.112:808/hls/60/index.m3u8
-#EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",厦门卫视
-http://123.10.79.112:808/hls/69/index.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",新疆卫视
-http://123.10.79.112:808/hls/63/index.m3u8
-#EXTINF:-1 tvg-id="卡酷动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",卡酷动画
-http://123.10.79.112:808/hls/64/index.m3u8
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",金鹰卡通
-http://123.10.79.112:808/hls/65/index.m3u8
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",嘉佳卡通
-http://123.10.79.112:808/hls/66/index.m3u8
-#EXTINF:-1 tvg-id="中国教育-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",中国教育-1
-http://123.10.79.112:808/hls/67/index.m3u8
-#EXTINF:-1 tvg-id="中国教育-4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",中国教育-4
-http://123.10.79.112:808/hls/68/index.m3u8
-#EXTINF:-1 tvg-id="收视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",收视指南
-http://123.10.79.112:808/hls/75/index.m3u8
-#EXTINF:-1 tvg-id="少儿动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",少儿动画
-http://123.10.79.112:808/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",厦门卫视
-http://123.10.79.112:808/hls/69/index.m3u8
-#EXTINF:-1 tvg-id="移动戏曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",移动戏曲
-http://123.10.79.112:808/hls/74/index.m3u8
-#EXTINF:-1 tvg-id="江苏卫视高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",江苏卫视高清
-http://123.10.79.112:808/hls/71/index.m3u8
-#EXTINF:-1 tvg-id="金鹰纪实高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",金鹰纪实高清
-http://123.10.79.112:808/hls/72/index.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",凤凰卫视中文台
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",凤凰卫视资讯台
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-#EXTINF:-1 tvg-id="河南移动电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",河南移动电视
-http://123.10.79.112:808/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",中天新闻
-http://107.151.203.111:2209/135/hk.php?id=ztxw
-#EXTINF:-1 tvg-id="漯河综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",漯河综合频道
-http://123.10.79.112:808/hls/73/index.m3u8
-#EXTINF:-1 tvg-id="漯河公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",漯河公共频道
-http://123.10.79.112:808/hls/78/index.m3u8
-#EXTINF:-1 tvg-id="经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",经典电影
-http://123.10.79.112:808/hls/79/index.m3u8
-#EXTINF:-1 tvg-id="谍战剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",谍战剧场
-http://123.10.79.112:808/hls/80/index.m3u8
-#EXTINF:-1 tvg-id="IPTV相声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",IPTV相声
-http://123.10.79.112:808/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",热播剧场
-http://123.10.79.112:808/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="IPTV法制" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",IPTV法制
-http://123.10.79.112:808/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="音乐现场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",音乐现场
-http://123.10.79.112:808/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="早教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",早教
-http://123.10.79.112:808/hls/92/index.m3u8
-#EXTINF:-1 tvg-id="军事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",军事
-http://123.10.79.112:808/hls/93/index.m3u8
-#EXTINF:-1 tvg-id="高清纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",高清纪实
-http://123.10.79.112:808/hls/95/index.m3u8
-#EXTINF:-1 tvg-id="动作影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",动作影院
-http://123.10.79.112:808/hls/97/index.m3u8
-#EXTINF:-1 tvg-id="爱大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",爱大剧
-http://123.10.79.112:808/hls/101/index.m3u8
-#EXTINF:-1 tvg-id="英张西口" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",英张西口
-http://123.10.79.112:808/hls/102/index.m3u8
-#EXTINF:-1 tvg-id="监控" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",监控
-http://123.10.79.112:808/hls/87/index.m3u8
-#EXTINF:-1 tvg-id="家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",家庭影院
-http://123.10.79.112:808/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="高清影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",高清影院
-http://123.10.79.112:808/hls/98/index.m3u8
-#EXTINF:-1 tvg-id="经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",经典电影
-rtmp://10.8.8.200:1935/live/3
-#EXTINF:-1 tvg-id="周星驰电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",周星驰电影
-rtmp://10.8.8.200:1935/live/1
-#EXTINF:-1 tvg-id="李连杰电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="未知地址酒店 ",李连杰电影
-rtmp://10.8.8.200:1935/live/2
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+######    T U R K I Y E   ##############
+#EXTINF:-1 tvg-id="trt-1-hd" group-title="Ulusal",TR: TRT 1 HD
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 tvg-id="trt-1-hd" group-title="Ulusal",TR: TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-id="atv-hd-tr" group-title="Ulusal",TR: ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-id="show-hd-tr" group-title="Ulusal",TR: Show HD
+http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
+#EXTINF:-1 tvg-id="star-tv-hd-tr" group-title="Ulusal",TR: Star TV HD
+https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+#EXTINF:-1 tvg-id="kanal-d-hd" group-title="Ulusal",TR: Kanal D HD
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web
+#EXTINF:-1 tvg-id="EuroD.tr" group-title="Ulusal",Euro D
+http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="fox-hd-tr" group-title="Ulusal",TR: Now HD
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="kanal-7-hd-tr" group-title="Ulusal",TR: Kanal 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="trt-turk-tr" group-title="Ulusal",TR: TRT Turk HD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="beyaz-tv-tr" group-title="Ulusal",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 group-title="Ulusal",Meltem TV
+http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal",TR: TV 4 HD
+http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="Haber",TR: TRT Haber HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="Haber",TR: Tgrt Haber HD
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr" group-title="Haber",TR: Haberturk HD
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" group-title="Haber",TR: Haber Global HD
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" group-title="Haber",TR: Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" group-title="Haber",TR: NTV HD
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:-1 tvg-id="a2-tr" group-title="Eglence",TR: A2 TV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="teve2hd" group-title="Eglence",TR: Teve2 HD
+http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-id="Ciftci.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Eglence",Ciftci TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="TİVİ6.tr" tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="Eglence",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png" group-title="Eglence",Cine 1 TV
+http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 group-title="Eglence",Cine+ 
+http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8 
+#EXTINF:-1 group-title="Eglence", SDM TV
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Eglence", BEGEN TV
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+
+######### Turk ##########
+#EXTINF:-1 group-title="Turk" tvg-id="atv-canli",TR: ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=bb504e08aafa6f1802409bdd7f2b541c
+#EXTINF:-1 group-title="Turk" tvg-id="show-tv-izle-1",TR: Show HD
+https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=af4cdf62b2b38e9ddcfdff9e1e85adbf
+#EXTINF:-1 group-title="Turk" tvg-id="star-tv-canli",TR: Star TV HD
+https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=bb504e08aafa6f1802409bdd7f2b541c
+#EXTINF:-1 group-title="Turk" tvg-id="kanal-d-canli-yayin",TR: Kanal D HD
+https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=bb504e08aafa6f1802409bdd7f2b541c
+#EXTINF:-1 group-title="Turk" tvg-id="tv8-izle-4",TR: TV8 HD
+https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=af4cdf62b2b38e9ddcfdff9e1e85adbf
+#EXTINF:-1 group-title="Turk" tvg-id="tlc",TR: TLC HD
+https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=bb504e08aafa6f1802409bdd7f2b541c
+#EXTINF:-1 group-title="Turk" tvg-id="dmax-canli-yayin",TR: Dmax HD
+https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=af4cdf62b2b38e9ddcfdff9e1e85adbf
+#EXTINF:-1 group-title="Turk" tvg-id="beyaz-tv",TR: Beyaz TV HD
+https://yayin2.canlitv.fun/live/beyaztv.stream/playlist.m3u8?hash=af4cdf62b2b38e9ddcfdff9e1e85adbf
+#EXTINF:-1 group-title="Turk" tvg-id="cine-1",Cine1 HD
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="tivi6",TR: Tivi6 HD
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="360-tv",TR: 360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=bb504e08aafa6f1802409bdd7f2b541c
+#EXTINF:-1 group-title="Turk" tvg-id="cine-5",TR: Cine5
+https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="tv2",TR: Teve2 HD
+https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=af4cdf62b2b38e9ddcfdff9e1e85adbf
+#EXTINF:-1 group-title="Turk" tvg-id="tele1-tv",TR: Tele1 HD
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+############   azeri-muzik   #############
+#EXTINF:-1 group-title="azeri-muzik",kanal-65
+https://v2.catcast.tv/content/47437/index.m3u8?token=4d16871a152b91a3a272e7d7e9f1da68
+#EXTINF:-1 group-title="azeri-muzik",now-music
+https://v2.catcast.tv/content/48694/index.m3u8?token=fecd2053ee946bb214ab66f1840e11ca
+#EXTINF:-1 group-title="azeri-muzik",rihatmusic
+https://v2.catcast.tv/content/48076/index.m3u8?token=3ee33d984865033d11e4d2e73463c442
+#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
+https://v2.catcast.tv/content/48591/index.m3u8?token=4610337b38d63495fcaebb4068f9bccf
+############   Catcast-Film-tv   #############
+#EXTINF:-1 group-title="Catcast-Film-tv",kino-1
+https://kino-1.catcast.tv/content/38617/index.m3u8?token=fee2bdfd6e2c7d693011b77bf7a77ea7
+#EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
+https://s.catcast.tv/content/34816/index.m3u8?token=19f5a911bc61934761e98e40dafb7e34
+#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
+https://v2.catcast.tv/content/40102/index.m3u8?token=31dd4c77249a4bc14de6899208144f7f
+#EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=6fc25b88f510172894a40eb4246a529b
+#EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
+https://v2.catcast.tv/content/36517/index.m3u8?token=ce503fe50600dc42e1e0bedefcd342a2
+#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
+https://v2.catcast.tv/content/50370/index.m3u8?token=74291df502ae983f6b3fdae77f9ab8b5
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
+https://v2.catcast.tv/content/50372/index.m3u8?token=9d71a4d2355a229c4d0fcad5d62d5ec7
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
+https://v2.catcast.tv/content/50472/index.m3u8?token=baa08a4fabe7fa8f8aab4b2c326d7083
+#EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
+https://v2.catcast.tv/content/50852/index.m3u8?token=309ce8eacb63b0801c12eb5459f03940
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-2
+https://v2.catcast.tv/content/50892/index.m3u8?token=ed970e17355b52bd98c45945d8096f54
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-5
+https://v2.catcast.tv/content/50895/index.m3u8?token=350398affde47001759d68975ce10f4f
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-premium-5
+https://v2.catcast.tv/content/50961/index.m3u8?token=dce64d7cb6a8837ce5b21a3c516e53b2
+# Generated automatically by build_m3u.py  http://epg.one/epg2.xml.gz
+
+# ===== AZERBAIJAN =====
+#EXTINF:-1 group-title="Azeri" tvg-id="aztv",Az TV (1080p)
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="ictimai-tv",Ictimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="APA TV",APA Tv (1080p)
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Ayaz TV",Ayaz TV (720p)
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Baku TV",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="KanalS",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Kapaz TV",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="medeniyyet",Medeniyyet TV (1080p)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="xezer",Xezer TV (720p)
+https://www.xezerxeber.az/stream/index.m3u8
+# ===== RUSSIA =====
+#EXTINF:-1 group-title="Rus" tvg-id="fox",Fox HD
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="cinema-ru",Cinema
+http://flussonic.linkintel.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="domkino",Domkino
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="domkino-premium",Dom kino Premium HD (1080p)
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="evrokino",Evrokino HD (1080p)
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="indiyskoe-kino",Indiyskoye Kino (576p)
+http://stream.mcquack.net/104/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kino-tv",Kino TV SD (576p)
+http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinoxit",KinoHit (576p)
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinokomedia",Kinokomedija (576p)
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinomiks",Kinomix (576p)
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinopokaz",Kinopokaz (576p)
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinopremiera-hd",Kinopremyera (1080p)
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinosemiya",Kinosemja (576p)
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinouzhas",Kinouzhas (576p)
+http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinosvidanie",Kinosvidanie (576p)
+http://stream.mcquack.net/171/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="muzhskoe-kino",Muzhskoe kino (576p)
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="ostrosiuzhetnoe-hd",Ostrosyuzhetnoye HD (1080p)
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="premialnoe-hd",Premialnoe HD (1080p)
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="tv1000",viju TV1000 (576p)
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="tv1000-action",viju TV1000 action (576p)
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-comedy",viju+ Comedy HD (1080p)
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-megahit",viju+ Megahit HD (1080p)
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-premiere",viju+ Premiere HD (1080p)
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-nature-history-hd",viju+ Planet HD (1080p)
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="nauka",Nauka (576p)
+http://stream.mcquack.net/125/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="discovery-channel",Discovery Channel (1080p)
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="id-xtra-eu",Investigation Discovery (1080p)
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="national-geographic",National Geographic (576p)
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-explore",viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-history",viju History (576p)
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-nature",viju Nature (576p)
+http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="travel-channel",Travel Channel (1080p)
+http://stream.mcquack.net/231/index.m3u8
