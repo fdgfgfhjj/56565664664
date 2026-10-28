@@ -2,14 +2,6 @@
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1,meiya
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-#EXTINF:-1,Unknown_20
-http://stream.mcquack.net/20/index.m3u8
-#EXTINF:-1,Unknown_26
-http://stream.mcquack.net/26/index.m3u8
-#EXTINF:-1,Unknown_27
-http://stream.mcquack.net/27/index.m3u8
-#EXTINF:-1,Unknown_28
-http://stream.mcquack.net/28/index.m3u8
 #EXTINF:-1,Unknown_29
 http://stream.mcquack.net/29/index.m3u8
 #EXTINF:-1,Unknown_30
