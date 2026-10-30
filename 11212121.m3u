@@ -744,144 +744,43 @@ http://stream.mcquack.net/488/index.m3u8
 http://stream.mcquack.net/489/index.m3u8
 #EXTINF:-1,Unknown_490
 http://stream.mcquack.net/490/index.m3u8
-http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Viasat Nature HD
-http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Viasat History HD
-http://127.0.0.1:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Viasat Explore HD
-http://127.0.0.1:6878/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",History HD
-http://127.0.0.1:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Точка РФ 
-http://127.0.0.1:6878/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",H2 HD
-http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",National Geographic HD
-http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Nat Geo Wild HD
-http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Nat Geo Wild
-http://127.0.0.1:6878/ace/getstream?id=b2fe281859c9bd201fd07234693f0fe360b0b339
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Discovery HD
-http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Моя планета HD
-http://127.0.0.1:6878/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Мир Вокруг HD
-http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Первый космический HD
-http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Дикая рыбалка HD
-http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Дикая охота HD
-http://127.0.0.1:6878/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Дикий
-http://127.0.0.1:6878/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Travel Channel HD
-http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Travel+Adventure HD
-http://127.0.0.1:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Приключения HD
-http://127.0.0.1:6878/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Диалоги о рыбалке HD
-http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Глазами туриста HD
-http://127.0.0.1:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Охотник и Рыболов HD
-http://127.0.0.1:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",В мире животных HD
-http://127.0.0.1:6878/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша Сибирь
-http://127.0.0.1:6878/ace/getstream?infohash=a0cc34324dd130db6145fbfd5e4824ab4393a12a
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша сибирь 4K
-http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Love Nature 4K
-http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Insight UHD 4K
-http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
-http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Живая планета
-http://127.0.0.1:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наука 2.0
-http://127.0.0.1:6878/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Нано ТВ
-http://127.0.0.1:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Оружие
-http://127.0.0.1:6878/ace/getstream?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",CGTN Русский
-http://127.0.0.1:6878/ace/getstream?id=9f7dd05a3f443890373824ee399423c747214568
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",1+1 International UA
-http://127.0.0.1:6878/ace/getstream?infonash=7449d61bc629ef761103d5a5b1fe9a01400e9b6f
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",1+1 Марафон UA
-http://127.0.0.1:6878/ace/getstream?infohash=0390d25613134c79f2126ac383a6ebf0a791a595
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",1+1 Україна HD UA
-http://127.0.0.1:6878/ace/getstream?infohash=365499a0980375801f50364f480c69c899e36875
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",2+2 HD UA
-http://127.0.0.1:6878/ace/getstream?infohash=dcb89a23f3eb7b0b4ecbfb013e67fc0517b310eb
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",К1 HD
-http://127.0.0.1:6878/ace/getstream?infohash=3d478b0441411bdeb1545a9dc1f0f94dbbd79356
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",К2 HD
-http://127.0.0.1:6878/ace/getstream?infohash=6ee9aee20ce91fd339f7ccade19a976076788e59
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Iнтер
-http://127.0.0.1:6878/ace/getstream?infohash=24aee1a36aa78d36d327585f6ac55d6a47b17ab8
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Enter-фільм HD UA
-http://127.0.0.1:6878/ace/getstream?infohash=39a3275a405cf97ebe4682c6af262e80df2a82e9
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Joker Fantastika
-http://127.0.0.1:6878/ace/getstream?infohash=6a5aa717078ff8db2704a5acf566c027760eaa93
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Kinosweet
-http://127.0.0.1:6878/ace/getstream?infohash=e981baec77ccfefaa20e4f948015fa5f470e59df
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Kinowood HD
-http://127.0.0.1:6878/ace/getstream?infohash=cf385eaf158c40a4fc54488d749a7265c64f78fb
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Шокирующее HD
-http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Хит HD
-http://127.0.0.1:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Феникс Плюс Кино
-http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Усадьба
-http://127.0.0.1:6878/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",ТНВ-Планета
-http://127.0.0.1:6878/ace/getstream?id=74682055820f39e441b102ff9085a646db64ba1c
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Точка отрыва
-http://127.0.0.1:6878/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",ТВ XXI
-http://127.0.0.1:6878/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",ТВ3 HD
-http://127.0.0.1:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Суббота HD
-http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",СТС Love
-http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",СТС Kids HD
-http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",СТС HD
-http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Страшное HD
-http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Совершенно Секретно
-http://127.0.0.1:6878/ace/getstream?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Russian Extreme HD
-http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Русский Детектив
-http://127.0.0.1:6878/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Русский Бестселлер
-http://127.0.0.1:6878/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Русская комедия
-http://127.0.0.1:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Романтичное HD
-http://127.0.0.1:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-id="piatnica-int",Пятница International
-http://127.0.0.1:6878/ace/getstream?infohash=2b78b24cf202048ce17b9378b52e2fb8f89168bd
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Пятница HD
-http://127.0.0.1:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Про Любовь HD
-http://127.0.0.1:6878/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Премиальное HD
-http://127.0.0.1:6878/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Поехали!
-http://127.0.0.1:6878/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Остросюжетное HD
-http://127.0.0.1:6878/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",НСТ
-http://127.0.0.1:6878/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/148?unique=2026-02-20+01%3A57%3A49.533570&access_token=1f146571-2fd6-44f5-9534-64f2c358fc2a",Канал Disney Онлайн
+http://kinowalk.hopto.org/kanaldisneyonline_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/160?unique=2026-02-20+01%3A57%3A49.533570&access_token=07a454fd-a3fc-4f16-8042-67fc431210e8",JTX Online
+http://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/187?unique=2026-02-20+01%3A57%3A49.533570&access_token=446ac72a-eb3b-4c09-b508-817873730086",Wfliq
+http://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/190?unique=2026-02-20+01%3A57%3A49.533570&access_token=eba28ca5-036f-4ab2-ac1d-7509d56d18b6",FoxKids-Remastered
+http://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/232?unique=2026-03-03+11%3A23%3A02.745062&access_token=d51627b4-7222-48a3-a991-1111fed44292",Play 4 Fun
+http://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/234?unique=2026-03-03+11%3A23%3A02.745062&access_token=784ff379-6d4c-4f30-a16b-2b8cccf7de95",Kycman
+http://kinowalk.hopto.org/kycman_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/238?unique=2026-03-03+11%3A23%3A02.745062&access_token=6abc5b0d-19e2-4267-a48c-eab799077191",Disney XD
+http://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/341?unique=2026-07-28+12%3A05%3A20.347774&access_token=5fa38c99-16ab-4396-af71-4c31e9a03afb",TopMoment TV
+http://kinowalk.hopto.org/topmoment_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/362?unique=2026-08-18+06%3A06%3A40.073859&access_token=975d1554-c87e-42f0-94dd-20a5867139f1",Мультфильмы VHS
+http://kinowalk.hopto.org/myvhs_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/271?unique=2026-04-19+06%3A49%3A49.005553&access_token=bfdd2f15-29dc-4a9f-9fd9-8c88201c1357",MAKARSTRIM
+http://kinowalk.hopto.org/makarstrim_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/392?unique=2026-09-08+09%3A55%3A57.168980&access_token=1ac628d3-d7c5-437b-a558-5ba8612d00c5",RetroMusic
+http://kinowalk.hopto.org/retromus_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/343?unique=2026-07-28+12%3A07%3A52.299856&access_token=9c11dbb4-9944-44c9-ba7b-09ce00c885b4",SANSEY_RU
+http://kinowalk.hopto.org/sansey_ru_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/344?unique=2026-07-28+12%3A08%3A53.376419&access_token=2b06a826-73eb-4ef0-ae60-ce714a327e16",CZM Music
+http://kinowalk.hopto.org/czmmusic_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/345?unique=2026-07-28+12%3A09%3A41.172468&access_token=a72f88b9-f2eb-45d2-ad31-617386c08484",NZTV
+http://kinowalk.hopto.org/nztv_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/360?unique=2026-08-17+19%3A25%3A23.235022&access_token=1b8ca5d4-8179-43aa-88e1-736d7d141bc9",VB_EDH90sandDH90s
+http://kinowalk.hopto.org/vb_edh90sanddh90s_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/364?unique=2026-08-18+15%3A58%3A59.400531&access_token=6aef4408-c919-4c26-8ca9-156a3ca30eb4",VB_GH_and_RandB
+http://kinowalk.hopto.org/gh_and_randb_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/366?unique=2026-08-18+20%3A53%3A33.152019&access_token=ab8049e5-d7f3-404c-8c36-3d85b5f1869e",VBRusDancePops80-90
+http://kinowalk.hopto.org/vbrusdancepops80_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/347?unique=2026-07-28+12%3A11%3A30.141066&access_token=45e61d27-efa2-4e8c-a01e-05a8cbe39305",OldClip TV
+http://kinowalk.hopto.org/oldclip_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/348?unique=2026-07-28+12%3A12%3A13.560538&access_token=bc3fd77c-e0f4-470e-95fc-e3fbeb2a310c",bstmsc
+http://kinowalk.hopto.org/bstmsc_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/349?unique=2026-07-28+15%3A30%3A15.709752&access_token=2a4b04bf-4c80-42f3-963d-adad4d6baf08",mp4_collection
+http://kinowalk.hopto.org/mp4_collection_live
