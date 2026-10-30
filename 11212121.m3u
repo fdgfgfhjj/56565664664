@@ -4,22 +4,16 @@ http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Pce1.png" group-title="欧洲频道",Россия 1俄
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/205/index.m3u8
 http://cdn.balelbrus.com/bigteisti8/russia1_orig/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Россия К HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/track_105_ac6e4b11/chunklist.m3u8
-#EXTINF:-1 group-title="欧洲频道" tvg-logo="https://epg.iptvx.one/picons/rtr-belarus.png",РТР Беларусь HD
-http://46.53.208.4/live/5-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/1HD.png",Первый канал
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/204/index.m3u8
-https://edge02d.mediavitrina.ru/hls-livef1/1tv/tracks-v5a1/mono.ts.m3u8?token=v2.URG4Wff2Zaw-M7ekHj-9gtzQQHe-jbz1hq7xmHr4xME.lx1jWR0DDnHYNwA-5GToKCPaymSPLpDvJo2jiYa4pa4.1776535725.dec2f4a9f116699030158a14ab4533c0
-http://cdn.balelbrus.com/bigteisti1/perviy_orig/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/1000.png",ОТР HD
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20018/index.m3u8
 https://edge02d.mediavitrina.ru/hls-livef1/otr_0/tracks-v5a1/mono.ts.m3u8?token=v2.URG4Wff2Zaw-M7ekHj-9gtzQQHe-jbz1hq7xmHr4xME.lx1jWR0DDnHYNwA-5GToKCPaymSPLpDvJo2jiYa4pa4.1776535725.dec2f4a9f116699030158a14ab4533c0
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TNTHD.png",ТНТ HD
-https://edge02d.mediavitrina.ru/hls-livef7/tnt2h/tracks-v5a1/mono.ts.m3u8?token=v2.URG4Wff2Zaw-M7ekHj-9gtzQQHe-jbz1hq7xmHr4xME.lx1jWR0DDnHYNwA-5GToKCPaymSPLpDvJo2jiYa4pa4.1776535725.dec2f4a9f116699030158a14ab4533c0
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/237/index.m3u8
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10024/index.m3u8
 http://cdn.balelbrus.com/bigteisti20/08946980/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
