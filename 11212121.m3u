@@ -2,45 +2,49 @@
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1,meiya
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Pce1.png" group-title="欧洲频道",Россия 1俄
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/205/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/205/index.m3u8
 http://cdn.balelbrus.com/bigteisti8/russia1_orig/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Россия К HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/track_105_ac6e4b11/chunklist.m3u8
+#EXTINF:-1 group-title="欧洲频道" tvg-logo="https://epg.iptvx.one/picons/rtr-belarus.png",РТР Беларусь HD
+http://46.53.208.4/live/5-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/1HD.png",Первый канал
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/204/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/204/index.m3u8
+https://edge02d.mediavitrina.ru/hls-livef1/1tv/tracks-v5a1/mono.ts.m3u8?token=v2.URG4Wff2Zaw-M7ekHj-9gtzQQHe-jbz1hq7xmHr4xME.lx1jWR0DDnHYNwA-5GToKCPaymSPLpDvJo2jiYa4pa4.1776535725.dec2f4a9f116699030158a14ab4533c0
+http://cdn.balelbrus.com/bigteisti1/perviy_orig/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/1000.png",ОТР HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20018/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20018/index.m3u8
 https://edge02d.mediavitrina.ru/hls-livef1/otr_0/tracks-v5a1/mono.ts.m3u8?token=v2.URG4Wff2Zaw-M7ekHj-9gtzQQHe-jbz1hq7xmHr4xME.lx1jWR0DDnHYNwA-5GToKCPaymSPLpDvJo2jiYa4pa4.1776535725.dec2f4a9f116699030158a14ab4533c0
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TNTHD.png",ТНТ HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/237/index.m3u8
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10024/index.m3u8
+https://edge02d.mediavitrina.ru/hls-livef7/tnt2h/tracks-v5a1/mono.ts.m3u8?token=v2.URG4Wff2Zaw-M7ekHj-9gtzQQHe-jbz1hq7xmHr4xME.lx1jWR0DDnHYNwA-5GToKCPaymSPLpDvJo2jiYa4pa4.1776535725.dec2f4a9f116699030158a14ab4533c0
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/237/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/10024/index.m3u8
 http://cdn.balelbrus.com/bigteisti20/08946980/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Tntinter.png",ТНТ International
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15230/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15230/index.m3u8
 #EXTINF:0 tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TNT4HD.png" group-title="欧洲频道",ТНТ4 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6370/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6370/index.m3u8
 http://s06.wsbof.com:8090/s/9b6f8047/tnt4-hd-orig.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/subbota.png",Суббота HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15118/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15118/index.m3u8
 https://edge02d.mediavitrina.ru/hls-livef7/subbota/tracks-v5a1/mono.ts.m3u8?token=v2.URG4Wff2Zaw-M7ekHj-9gtzQQHe-jbz1hq7xmHr4xME.lx1jWR0DDnHYNwA-5GToKCPaymSPLpDvJo2jiYa4pa4.1776535725.dec2f4a9f116699030158a14ab4533c0
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/CTC.png",СТС HD俄
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6303/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6303/index.m3u8
 https://edge02d.mediavitrina.ru/hls-livef1/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.URG4Wff2Zaw-M7ekHj-9gtzQQHe-jbz1hq7xmHr4xME.lx1jWR0DDnHYNwA-5GToKCPaymSPLpDvJo2jiYa4pa4.1776535725.dec2f4a9f116699030158a14ab4533c0
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",СТС Kids HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2001/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2001/index.m3u8
 http://46.53.208.4/live/1448-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/HTB%20HD.png",НТВ俄
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/213/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/213/index.m3u8
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/2041.png",НТВ Хит HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16062/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/16062/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TBU.png",ТВЦ俄
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19222/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19222/index.m3u8
 http://cdn.balelbrus.com/bigteisti19/09946965/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/4HD.png",Рен ТВ俄
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2024/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2024/index.m3u8
 https://edge02d.mediavitrina.ru/hls-livef1/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.URG4Wff2Zaw-M7ekHj-9gtzQQHe-jbz1hq7xmHr4xME.lx1jWR0DDnHYNwA-5GToKCPaymSPLpDvJo2jiYa4pa4.1776535725.dec2f4a9f116699030158a14ab4533c0
 http://cdn.balelbrus.com/bigteisti20/08946979/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Пятый канал HD
@@ -59,424 +63,424 @@ http://1d8ea83e.tvclub.xyz/iptv/KBCCGV4WHRRLR4/15119/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
 http://cdn.balelbrus.com/bigteisti19/09946966/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Sanktpeter.png",Санкт-Петербург圣彼得堡
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/715/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/715/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2157" tvg-logo="http://epg.it999.ru/img/2157.png",Архыз 24卡拉恰伊切尔克斯共和国
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1049/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1049/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/bst24.png",Башкирское巴什科尔托斯坦
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/832/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/832/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/ect.png",БСТ HD巴什基尔卫星电视台
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2115/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2115/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Tmck.png",Томское Время托木斯克
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15299/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15299/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Ost.png",Осетия Иристон奥赛梯伊莉斯顿
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15402/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15402/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="5810" tvg-logo="http://epg.it999.ru/img/5810.png",Липецкое время阿尔泰边疆区
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15406/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15406/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="5819" tvg-logo="https://tvboom.vip/ico/5819.png",Енисей 叶尼塞电视台
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15418/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15418/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="5706" tvg-logo="http://epg.it999.ru/img/5706.png",ННТВ 下洛夫哥罗德
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15283/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15283/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6032" tvg-logo="http://epg.it999.ru/img/6032.png",Истоки Орёл汉特曼西自治区下瓦尔托夫斯克
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16027/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/16027/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6742" tvg-logo="http://epg.it999.ru/img/6742.png",Панорама ТВ斯塔夫罗波尔边疆区
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19339/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19339/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6752" tvg-logo="http://epg.it999.ru/img/6752.png",Городской Телеканал-Ярославль雅罗斯拉夫尔
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19349/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19349/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6675" tvg-logo="http://epg.it999.ru/img/6675.png",Первый Тульский图拉州
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19362/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19362/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6791" tvg-logo="http://epg.it999.ru/img/6791.png",Сургут 86 苏尔古特
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19390/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19390/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6792" tvg-logo="http://epg.it999.ru/img/6792.png",Сургут 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19391/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19391/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="5818" tvg-logo="http://epg.it999.ru/img/5818.png",Прима ТВ海参崴普力马
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19361/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19361/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6782" tvg-logo="http://epg.it999.ru/img/6782.png",Тивиком ТВ布里亚特乌兰乌德
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19381/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19381/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="5821" tvg-logo="http://epg.it999.ru/img/5821.png",ТВК克拉斯诺亚尔斯克
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19388/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19388/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6783" tvg-logo="http://epg.it999.ru/img/6783.png",ТЕО ТВ 哈巴罗夫斯克
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19382/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19382/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="7693" tvg-logo="http://epg.it999.ru/img/7693.png",Саратов 24萨拉托夫州
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20119/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20119/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="7699" tvg-logo="http://epg.it999.ru/img/7699.png",НВК Саха萨哈电视台
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20125/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20125/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2300" tvg-logo="http://epg.it999.ru/img/2300.png",Брянская Губерния布良斯克州
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20132/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20132/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/9083.png",Среда HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16002/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/16002/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/9119.png",ТНР 24 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16028/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/16028/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/9120.png",Мегаполис HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16027/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/16027/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/2168.png",Астрахань 24 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16149/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/16149/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/2473.png",Толк HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2140/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2140/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/2830.png",Сочи 24 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9040/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9040/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/5765.png",Матур ТВ HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15352/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15352/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/7879.png",Афонтово
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15423/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15423/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/6670.png",Евразия HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19236/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19236/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/6680.png",Миллет HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19258/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19258/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/6742.png",Панорама ТВ HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19339/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19339/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/6751.png",Губерния
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19348/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19348/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/6760.png",Самара ГИС HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19357/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19357/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/6781.png",Туапсе 24 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19380/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19380/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/2139.png",Теледом ТВ HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19383/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19383/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/6787.png",ТРК555 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19386/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19386/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/5775.png",ТВ7
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19389/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19389/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.one/img/7690.png",Север HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20116/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20116/index.m3u8
 #EXTINF:0 group-title="欧洲频道"  tvg-logo="http://epg.it999.ru/img/5192.png",UZ 6 Кадров HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14231/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/14231/index.m3u8
 #EXTINF:0 group-title="欧洲频道"tvg-logo="http://epg.it999.ru/img/5441.png",Твое ТВ HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14229/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/14229/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/ZVEZDAHD.png",Звезда HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15115/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15115/index.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/ZVEZDAPLUSHD.png",Звезда Плюс HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19230/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19230/index.m3u8
 http://46.53.208.4/live/849-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/PYATNICAHD.png",Пятница! HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5031/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/5031/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/360hd.png",360 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2065/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2065/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3956.png",Kanal 7 HD TK
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2257/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2257/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/a2-tr.png",A2
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6908/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6908/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2600.png",ATV TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2296/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2296/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/STAR1TV.png",STAR TV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2301/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2301/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2951.png",TRT TURK EUROPA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2281/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2281/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/TV8g.png",TV8 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2286/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2286/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/TRT1TR.png",TRT 1 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2293/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2293/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="欧洲频道",TRT Müzik HD
 http://ru2.tvtm.one/ch1415/mono.m3u8?token=ruslan35.v2_c5ebdZ43EIaEeCH947HyjsnjtKnGvKk3OHpuVwAd0sAqtgPon9F7i3-1scpLUrpUPxnW0ROa6V8cMw
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2589.png",A HABER HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2294/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2294/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2601.png",NTV HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2299/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2299/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/KanalDTR.png",Kanal D HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2304/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2304/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2607.png",Teve 2 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2306/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2306/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/ShowHD.png",Show TV HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2307/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2307/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3979.png",Haberturk HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2308/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2308/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3954.png",Fox Turkiye HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2309/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2309/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2668.png",Beyaz TV HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2310/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2310/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3986.png",Ulke TV HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2311/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2311/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2615.png",24 TV HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2319/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2319/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2622.png",TV 100 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2328/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2328/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3846.png",Yaban HD TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6787/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6787/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3850.png",TV 2000 TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6791/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6791/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3851.png",Meltem TV TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6792/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6792/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3860.png",DiziSmart Premium TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6802/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6802/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3939.png",TRT 2 FHD TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6884/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6884/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3943.png",Show Max TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6890/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6890/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3945.png",Euro D TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6892/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6892/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2614.png",TV 8.5 FHD TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6899/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6899/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3982.png",Tele 1 TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6930/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6930/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/5969.png",Kanal V TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15252/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15252/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/5974.png",Kanal Cay TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15257/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15257/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/5975.png",T.A.Y TV TR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15258/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15258/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3127.png",Kabel Eins HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6067/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6067/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/RTL%20FHD%20DE.png",RTL HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6062/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6062/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3114.png",RTL Nitro HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6064/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6064/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Sat.1%20DE.png",Sat.1 HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6060/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6060/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/ZDF%20DE.png",ZDF HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6059/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6059/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/ProSieben%20FHD%20DE.png",ProSieben HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6057/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6057/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3071.png",ZMaxx HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6058/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6058/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/4461.png",RTL Passion HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7230/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7230/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Welt%20DE.png",WELT HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7258/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7258/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/N-TV%20FHD%20DE.png",N-TV HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7259/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7259/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/SIXX%20HD%20DE.png",SIXX HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15170/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15170/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/5656.png",arte HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15171/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15171/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Das%20Erste%20HD%20DE.png",Das Erste HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15172/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15172/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/KiKA%20FHD%20DE.png",KIKA HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15175/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15175/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/NDR%20HD%20DE.png",NDR HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15181/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15181/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/WDR%20HD%20(Aachen)%20DE.png",WDR HD Aachen DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15173/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15173/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/ORF%201%20HD%20DE.png",ORF 1 HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15177/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15177/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/RTL%20Crime%20HD%20DE.png",RTL Crime DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15178/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15178/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/HR%20FHD%20DE.png",HR HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15180/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15180/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/ZDFinfo%20DE.png",ZDF Info HD DE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/17042/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/17042/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Polsat%202%20HD%20PL.png",Polsat 2 HD PL
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6084/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6084/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Polsat%20Cafe%20HD%20PL.png",Polsat Cafe HD PL
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6085/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6085/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Super%20Polsat%20HD%20PL.png",SUPER POLSAT HD PL
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6109/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6109/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TVN%207%20HD%20PL.png",TVN 7 HD PL
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7279/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7279/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TVN%20Style%20HD%20PL.png",TVN Style PL
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7285/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7285/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TVP%202%20HD%20PL.png",TVP 2 HD PL
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7293/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7293/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/DR1%20HD%20DK.png",DR1 HD DK
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7354/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7354/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Kanal%204%20HD%20DK.png",Kanal 4 HD DK
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7358/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7358/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/FEM%20HD%20NO.png",FEM HD 挪威
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7356/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7356/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/SVT1%20HD%20SE.png",SVT1 HD瑞典
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7350/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7350/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/SVT2%20HD%20SE.png",SVT2 HD SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7351/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7351/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV12%20HD%20SE.png",TV12 HD SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7353/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7353/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Kanal%2011%20HD%20SE.png",Kanal 11 HD SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7357/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7357/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="4852" tvg-logo="http://epg.it999.ru/img/4852.png" tvg-rec="0",KANAL 5 HD SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12052/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12052/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Kanal%209%20HD%20SE.png",KANAL 9 HD SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12053/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12053/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/4861.png",SJUAN HD SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12062/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12062/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV3%20HD%20SE.png",TV 3 HD SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12066/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12066/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV4%20Guld%20HD%20SE.png",TV 4 GULD SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12067/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12067/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV6%20HD%20SE.png",TV 6 HD SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12068/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12068/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV4%20Film%20HD%20SE.png",TV 4 FILM SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12069/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12069/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV4%20Fakta%20SE.png",TV 4 FAKTA SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12070/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12070/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/4884.png",KANAL 10 HD SE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12091/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12091/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV1%20LT.png",TV1 HD立陶宛
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12004/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12004/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3277.png",LTV7 LV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18009/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18009/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/LRT%20TV%20LT.png",LRT TV LT
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6356/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6356/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV3%20LT.png",TV3 LT
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18003/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18003/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV6%20LT.png",TV6 LT
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18004/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18004/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV8%20LT.png",TV8 LT
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12005/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12005/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3268.png",BTV HD LT
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6398/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6398/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/LNK%20LT.png",LNK HD LT
 http://1.1usd.tv/ch673/mono.m3u8?token=1usdtv_mama_34394_1.v2_x-4Az43yAY73kXT6ChXSw7mdGlzG-qLy11bM8Dp8yN04621ZNlE-zTRBU7jjh9NWzbMTj-8hprKUmHolK7_NBW3-5NU
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6358/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6358/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="4808" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV3%20Plus%20LV.png",TV3 Plus HD LT
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18023/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18023/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Go3%20Films%20HD%20LT.png",Go3Films LT
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18008/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18008/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/LTV1%20FHD%20LV.png",LTV1 HD LV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18020/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18020/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV3%20Mini%20HD%20LV.png",TV3 Mini HD LV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6414/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6414/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/TV4%20HD%20LV.png",TV4 HD LV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18026/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18026/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/8TV%20HD%20LV.png",8 TV HD LV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18014/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18014/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Duo%206%20HD%20EE.png",DUO6 HD LV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18018/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18018/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/STV%20Pirm%C4%81!%20LV.png",STV HD LV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18021/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18021/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3377" tvg-logo="http://epg.it999.ru/img/3377.png" tvg-rec="0",TV3 Life LV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18022/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18022/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Duo%203%20HD%20EE.png",DUO3 HD LV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14129/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/14129/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/ETV%20EE.png",ETV HD EE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12011/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12011/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/ETV2%20EE.png",ETV2 EE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6403/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6403/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Kanal%202%20EE.png",Kanal 2 EE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6404/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6404/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="7231" tvg-logo="http://epg.it999.ru/img/7231.png" tvg-rec="0",Duo7 HD EE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20079/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20079/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/ETV%20%20EE.png",ETV+ HD EE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20080/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20080/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/3307.png",ICTV UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6302/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6302/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",ICTV 2 HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15235/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15235/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",НТН HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15011/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15011/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Наше Улюблене К?но HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15007/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15007/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",EU Music HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/925/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/925/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Мега HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15124/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15124/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",К2 HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15126/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15126/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",К1 HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15125/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15125/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Терноп?ль 1 UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5041/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/5041/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Перший М?ський HD (Одеса) UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/981/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/981/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",1+1 Укра?на FHD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/987/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/987/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Bolt FHD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/991/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/991/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Star Cinema HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/992/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/992/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",5 Канал HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1030/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1030/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",?нтер HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1047/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1047/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Рибалка FHD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1058/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1058/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",1+1 Марафон UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/994/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/994/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Zoom HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15130/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15130/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Прямий HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1015/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1015/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",СТБ HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15122/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15122/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Еспресо UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6311/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6311/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Пiксель TV HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15127/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15127/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Star Family Россия HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6326/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6326/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",8 Канал FHD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6327/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6327/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",NIKI Kids HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6332/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6332/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",NIKI Junior HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6333/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6333/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",М1 HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6334/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6334/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",М2 HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6335/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6335/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Оце HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6375/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6375/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",ТЕТ HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6377/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6377/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",ПлюсПлюс HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6379/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6379/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Enter-ф?льм HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15273/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15273/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",4ever Music UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15278/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15278/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",НТА HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31732/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31732/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Перший М?ський HD (Кривий Р?г) UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31736/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31736/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Рада HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31739/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31739/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Св?тло HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31744/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31744/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Перший Зах?дний HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31752/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31752/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",UTravel HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31762/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31762/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",?сланд?я HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31769/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31769/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Арм?я TV HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31771/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31771/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Галичина HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31772/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31772/index.m3u8
 #EXTINF:-1 HD UA" group-title="欧洲频道" tvg-logo="",Kvartal TV HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31780/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31780/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",11 Канал HD (Дн?про) UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31785/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31785/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",36.6 TV UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31787/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31787/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",4ever Cinema HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31788/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31788/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Cine+ HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31794/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31794/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",D1 HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31798/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31798/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Da Vinci HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31799/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31799/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Divi Sport HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31800/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31800/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Equalympic HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31802/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31802/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",FilmUA Drama UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31805/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31805/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Kinowood HD UA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31817/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31817/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2104.png",Новий канал HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15128/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15128/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2538.png",Беларусь 1 BY
 http://46.53.208.4/live/8000-req_offset_28000000-req_window_0-4k_v5.m3u8
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2170/index.m3u8
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2178/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2170/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2178/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/Beltuss2HD.png",Беларусь 2 HD
 http://46.53.208.4/live/8008-req_offset_28000000-req_window_0-4k_v5.m3u8
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2179/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2179/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/Beltuss3HD.png",Беларусь 3 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2180/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2180/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Беларусь 5 HD BY
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2177/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2177/index.m3u8
 http://46.53.208.4/live/9-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Беларусь 24 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14011/index.m3u
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/14011/index.m3u
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/4626.png",Яснае ТВ HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10035/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/10035/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2543.png",СТВ HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2184/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2184/index.m3u8
 http://46.53.208.4/live/753-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="https://tvboom.vip/ico/OntHD.png",ОНТ HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2182/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2182/index.m3u8
 http://46.53.208.4/live/849-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-logo="http://epg.it999.ru/img/2550.png",8 Канал HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2186/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2186/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="https://epg.iptvx.one/picons/skif.png",Скиф HD
 http://46.53.208.4/live/3101-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="https://epg.iptvx.one/picons/ntv-belarus.png",НТВ Беларусь HD
@@ -522,113 +526,113 @@ http://46.53.208.4/live/110-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1  group-title="欧洲频道",Unknown_101
 http://46.53.208.4/live/101-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6591" tvg-logo="http://epg.it999.ru/img/6591.png" tvg-rec="0",BBC 1 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19176/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19176/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6647" tvg-logo="http://epg.it999.ru/img/6647.png" tvg-rec="0",itv 1 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19185/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19185/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6648" tvg-logo="http://epg.it999.ru/img/6648.png" tvg-rec="0",itv 2 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19186/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19186/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2763" tvg-logo="https://tvboom.vip/ico/Moldova1.png" tvg-rec="0",Moldova 1MD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19451/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19451/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2787" tvg-logo="https://tvboom.vip/ico/Moldova2.png" tvg-rec="3",Moldova 2
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2445/index.m3u8
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19439/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2445/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19439/index.m3u8
 #EXTINF:0 tvg-rec="0",Caza y Pesca HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7346/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7346/index.m3u8
 #EXTINF:0 tvg-rec="3",Onetoro HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7061/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7061/index.m3u8
 #EXTINF:0 tvg-rec="3",M+ Comedia ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7066/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7066/index.m3u8
 #EXTINF:0 tvg-rec="0",Canal SUR HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15245/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15245/index.m3u8
 #EXTINF:0 tvg-rec="0",Divinity ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15246/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15246/index.m3u8
 #EXTINF:0 tvg-rec="0",Sundance TV HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15247/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15247/index.m3u8
 #EXTINF:0 tvg-rec="0",24 Horas ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31818/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31818/index.m3u8
 #EXTINF:0 tvg-rec="0",Be Mad HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31819/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31819/index.m3u8
 #EXTINF:0 tvg-rec="0",LaLiga TV Hypermotion HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31823/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31823/index.m3u8
 #EXTINF:0 tvg-rec="0",TVE Internacional ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31824/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31824/index.m3u8
 #EXTINF:0 tvg-rec="0",Antena 3 HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31825/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31825/index.m3u8
 #EXTINF:0 tvg-rec="0",La 1 HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31826/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31826/index.m3u8
 #EXTINF:0 tvg-rec="0",Cuatro HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31827/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31827/index.m3u8
 #EXTINF:0 tvg-rec="0",Telecinco HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31828/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31828/index.m3u8
 #EXTINF:0 tvg-rec="0",La 2 HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31829/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31829/index.m3u8
 #EXTINF:0 tvg-rec="0",Calle 13 HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31836/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31836/index.m3u8
 #EXTINF:0 tvg-rec="0",Nova HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31837/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31837/index.m3u8
 #EXTINF:0 tvg-rec="0",Baby TV ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31838/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31838/index.m3u8
 #EXTINF:0 tvg-rec="0",Boing HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31839/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31839/index.m3u8
 #EXTINF:0 tvg-rec="0",Teledeporte HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31857/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31857/index.m3u8
 #EXTINF:0 tvg-rec="0",Gol HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31863/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31863/index.m3u8
 #EXTINF:0 tvg-rec="0",M+ Vamos HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31867/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31867/index.m3u8
 #EXTINF:0 tvg-rec="0",M+ Acción HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31868/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31868/index.m3u8
 #EXTINF:0 tvg-rec="0",M+ Comedia HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31869/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31869/index.m3u8
 #EXTINF:0 tvg-rec="0",M+ Cine Espa?ol HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31870/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31870/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmo HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31871/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31871/index.m3u8
 #EXTINF:0 tvg-rec="0",M+ Estrenos HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31872/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31872/index.m3u8
 #EXTINF:0 tvg-rec="0",Ubeat HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31876/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31876/index.m3u8
 #EXTINF:0 tvg-rec="0",Energy HD ES
 #EXTGRP:欧洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31879/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31879/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6457" tvg-logo="http://epg.it999.ru/img/6457.png",Rai 1意大利
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19081/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19081/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6458" tvg-logo="http://epg.it999.ru/img/6458.png" tvg-rec="0",Rai 2意大利
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19082/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19082/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6459" tvg-logo="http://epg.it999.ru/img/6459.png",RAI 3意大利
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31936/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31936/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19083/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19083/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://foruda.gitee.com/images/1723568172805347608/05af507e_13827851.png" group-title="欧洲频道",ITALIA 1 
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://foruda.gitee.com/images/1723568214357004414/63bc1d04_13827851.png" group-title="欧洲频道",RETE 4意大利
@@ -644,17 +648,17 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rsila2.png" group-title="欧洲频道",RSI La 2意
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:0 group-title="欧洲频道" tvg-id="5668" tvg-logo="http://epg.it999.ru/img/5668.png" tvg-rec="0",LCI FR
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15188/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15188/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6466" tvg-logo="http://epg.it999.ru/img/6466.png" tvg-rec="0",Rai Scuola
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19090/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19090/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6468" tvg-logo="http://epg.it999.ru/img/6468.png" tvg-rec="0",Rai Gulp HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19092/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19092/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6469" tvg-logo="http://epg.it999.ru/img/6469.png" tvg-rec="0",Rai Italia HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19093/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19093/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="5697" tvg-logo="http://epg.it999.ru/img/5697.png" tvg-rec="0",tdp HD ES
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15245/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15245/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="5698" tvg-logo="http://epg.it999.ru/img/5698.png" tvg-rec="0",atreseries HD ES
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15246/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15246/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="欧洲频道",TF1法国
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:AE:A8:53&stream=1687228&extension=ts&play_token=V5K2PwEeaN
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/france/m6-fr.png" group-title="欧洲频道",M6法国
@@ -670,50 +674,50 @@ http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:AE:A8:53&stream=1537513&ext
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/france/france-5-fr.png" group-title="欧洲频道",FRANCE 5法国
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:AE:A8:53&stream=1537512&extension=ts&play_token=1OND2l7qlg
 #EXTINF:0 group-title="欧洲频道" tvg-id="3740" tvg-logo="http://epg.it999.ru/img/3740.png" tvg-rec="3",TVR 1 HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6998/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6998/index.m3u8
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3684" tvg-logo="http://epg.it999.ru/img/3684.png" tvg-rec="3",TVR 2 RO
 https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6942/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6942/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3685" tvg-logo="http://epg.it999.ru/img/3685.png" tvg-rec="3",TVR 3 RO
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6943/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6943/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="7835" tvg-logo="http://epg.it999.ru/img/7835.png" tvg-rec="3",Acas? TV HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6988/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6988/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3727" tvg-logo="http://epg.it999.ru/img/3727.png" tvg-rec="3",CineMax HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6985/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6985/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="7836" tvg-logo="http://epg.it999.ru/img/7836.png" tvg-rec="3",Pro Arena HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6990/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6990/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Investigation Discovery RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6957/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6957/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",Kanal D HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6984/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6984/index.m3u8
 #EXTINF:-1 group-title="欧洲频道" tvg-logo="",UTV HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7036/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7036/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3738" tvg-logo="http://epg.it999.ru/img/3738.png" tvg-rec="3",FilmBox Extra HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6996/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6996/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3741" tvg-logo="http://epg.it999.ru/img/3741.png" tvg-rec="3",Film Now HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6999/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6999/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3744" tvg-logo="http://epg.it999.ru/img/3744.png" tvg-rec="3",Antena 1 HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7002/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7002/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3745" tvg-logo="http://epg.it999.ru/img/3745.png" tvg-rec="3",Antena 3 CNN HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7003/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7003/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3746" tvg-logo="http://epg.it999.ru/img/3746.png" tvg-rec="3",Antena Stars HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7004/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7004/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3751" tvg-logo="http://epg.it999.ru/img/3751.png" tvg-rec="3",DIGI 24 HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7009/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7009/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3715" tvg-logo="http://epg.it999.ru/img/3715.png" tvg-rec="3",ZU TV HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7034/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7034/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3777" tvg-logo="http://epg.it999.ru/img/3777.png" tvg-rec="3",Happy Channel HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7035/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7035/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3779" tvg-logo="http://epg.it999.ru/img/3779.png" tvg-rec="3",Viasat Nature HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7037/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7037/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3780" tvg-logo="http://epg.it999.ru/img/3780.png" tvg-rec="3",DIGI ANIMAL WORLD HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7038/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7038/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3781" tvg-logo="http://epg.it999.ru/img/3781.png" tvg-rec="3",DIGI Life HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7039/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7039/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3782" tvg-logo="http://epg.it999.ru/img/3782.png" tvg-rec="3",DIGI WORLD HD RO
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7040/index.m3u8ji
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7040/index.m3u8ji
 #EXTINF:-1 tvg-id="?T1.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT1.png" group-title="欧洲频道",CT 1捷克
 http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="?T2.CZ" tvg-logo="https://raw.githubusercontent.com/xkratky/iptv/refs/heads/main/logo/CT2.png" group-title="欧洲频道",CT 2  HD
@@ -975,7 +979,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19134/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png",beIN Sports Max 1 
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19062/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="4313" tvg-logo="http://epg.it999.ru/img/4313.png" tvg-rec="3",Eurosport 2 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5076/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/5076/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6525" tvg-logo="http://epg.it999.ru/img/6525.png",TRT SPOR 
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19067/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6522" tvg-logo="http://epg.it999.ru/img/6522.png",A SPOR 
@@ -997,186 +1001,186 @@ http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/14012/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="7793" tvg-logo="http://epg.it999.ru/img/7793.png",Silk 3
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/20146/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2052" tvg-logo="http://epg.it999.ru/img/2052.png" ="7",Eurosport 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/876228/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/876228/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6039" tvg-logo="http://epg.it999.ru/img/6039.png",Red Bull TV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/87616039/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/87616039/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2480" tvg-logo="http://epg.it999.ru/img/2480.png",Удар HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/87619246/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/87619246/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2055" tvg-logo="http://epg.it999.ru/img/2055.png" ="7",Viju+ Sport
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/8762007/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/8762007/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png" ="3",XSPORT
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/876996/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/876996/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2048" tvg-logo="http://epg.it999.ru/img/2048.png" tvg-rec="7",KHL
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/215/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/215/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2362" tvg-logo="http://epg.it999.ru/img/2362.png" tvg-rec="3",FAST&FUN BOX
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1018/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1018/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="5891" tvg-logo="http://epg.it999.ru/img/5891.png" tvg-rec="0",Q Sport Arena
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15238/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15238/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="7509" tvg-logo="http://epg.it999.ru/img/7509.png" tvg-rec="0",QazSport
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14032/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/14032/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="4678" tvg-logo="http://epg.it999.ru/img/4678.png" tvg-rec="7",4kkивный
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10057/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/10057/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="113" tvg-logo="http://epg.it999.ru/img/113.png" tvg-rec="0",ЖИВИ!
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19252/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19252/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6484" tvg-logo="http://epg.it999.ru/img/6484.png" tvg-rec="0",Auto Motor Sport
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19025/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19025/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6521" tvg-logo="http://epg.it999.ru/img/6521.png" tvg-rec="0",TRT SPOR 2
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19068/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19068/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6538" tvg-logo="http://epg.it999.ru/img/6538.png" tvg-rec="0",SportItalia Motori
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19110/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19110/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" ="3",Старт
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/8766384/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/8766384/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6485" tvg-logo="http://epg.it999.ru/img/6485.png",Sport Digital
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/87619026/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/87619026/index.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://epgx.site/p/belarus5-inet.png" tvg-id="belarus5-inet",Беларусь5
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/8762177/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/8762177/index.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2582" tvg-logo="http://epg.it999.ru/img/2582.png" tvg-rec="3",Tojikistan HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2232/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2232/index.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-logo="",Сафина HD TJ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2233/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2233/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7917" tvg-logo="http://epg.it999.ru/img/7917.png" tvg-rec="0",Dasturxon TV UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20185/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20185/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2649" tvg-logo="http://epg.it999.ru/img/2649.png" tvg-rec="0",Dunyo bo`ylab UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20186/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20186/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2652" tvg-logo="http://epg.it999.ru/img/2652.png" tvg-rec="0",Kinoteatr FHD UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20190/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20190/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7925" tvg-logo="http://epg.it999.ru/img/7925.png" tvg-rec="0",Mening Yurtim FHD UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20193/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20193/index.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-logo="",My5 HD UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20193/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20193/index.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-logo="",Sport HD UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20203/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20203/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7926" tvg-logo="http://epg.it999.ru/img/7926.png" tvg-rec="0",Milliy TV HD UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20195/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20195/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7931" tvg-logo="http://epg.it999.ru/img/7931.png" tvg-rec="0",Ozbekiston 24 HD UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20199/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20199/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7932" tvg-logo="http://epg.it999.ru/img/7932.png" tvg-rec="0",Ozbekiston Tarixi HD UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20200/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20200/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7934" tvg-logo="http://epg.it999.ru/img/7934.png" tvg-rec="0",Ruxsor TV UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20202/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20202/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7937" tvg-logo="http://epg.it999.ru/img/7937.png" tvg-rec="0",Zo'r TV HD UZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20205/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20205/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3385" tvg-logo="http://epg.it999.ru/img/3385.png" tvg-rec="0",Aaj Tak IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6567/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6567/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3386" tvg-logo="http://epg.it999.ru/img/3386.png" tvg-rec="0",Aapka Colors IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6568/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6568/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3387" tvg-logo="http://epg.it999.ru/img/3387.png" tvg-rec="0",B4U Movies IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6569/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6569/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3389" tvg-logo="http://epg.it999.ru/img/3389.png" tvg-rec="0",Sony SAB IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6571/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6571/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3394" tvg-logo="http://epg.it999.ru/img/3394.png" tvg-rec="0",Zee TV HD IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6576/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6576/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3406" tvg-logo="http://epg.it999.ru/img/3406.png" tvg-rec="0",Sanskar IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6588/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6588/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3409" tvg-logo="http://epg.it999.ru/img/3409.png" tvg-rec="0",Zee News IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6591/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6591/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3417" tvg-logo="http://epg.it999.ru/img/3417.png" tvg-rec="0",Zee Business IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6599/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6599/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3432" tvg-logo="http://epg.it999.ru/img/3432.png" tvg-rec="0",News18 India IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6616/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6616/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3396" tvg-logo="http://epg.it999.ru/img/3396.png" tvg-rec="0",NDTV 24x7 IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6620/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6620/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3440" tvg-logo="http://epg.it999.ru/img/3440.png" tvg-rec="0",Satsang TV IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6624/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6624/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3449" tvg-logo="http://epg.it999.ru/img/3449.png" tvg-rec="0",Channel I IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6633/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6633/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3459" tvg-logo="http://epg.it999.ru/img/3459.png" tvg-rec="0",TV9 Gujarati IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6643/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6643/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3466" tvg-logo="http://epg.it999.ru/img/3466.png" tvg-rec="0",Prajaa TV IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6650/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6650/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3486" tvg-logo="http://epg.it999.ru/img/3486.png" tvg-rec="0",9X Tashan IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6672/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6672/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3499" tvg-logo="http://epg.it999.ru/img/3499.png" tvg-rec="0",Fateh TV IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6685/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6685/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3500" tvg-logo="http://epg.it999.ru/img/3500.png" tvg-rec="0",PTC Punjabi Gold IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6686/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6686/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3506" tvg-logo="http://epg.it999.ru/img/3506.png" tvg-rec="0",SUN TV IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6692/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6692/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3507" tvg-logo="http://epg.it999.ru/img/3507.png" tvg-rec="0",KTV IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6693/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6693/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3510" tvg-logo="http://epg.it999.ru/img/3510.png" tvg-rec="0",Jaya TV IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6696/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6696/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3441" tvg-logo="http://epg.it999.ru/img/3441.png" tvg-rec="0",Sony Max 2 IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6704/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6704/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3523" tvg-logo="http://epg.it999.ru/img/3523.png" tvg-rec="0",Gemini Movies IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6710/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6710/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3527" tvg-logo="http://epg.it999.ru/img/3527.png" tvg-rec="0",SVBC IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6714/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6714/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3532" tvg-logo="http://epg.it999.ru/img/3532.png" tvg-rec="0",ARY Digital IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6719/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6719/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3543" tvg-logo="http://epg.it999.ru/img/3543.png" tvg-rec="0",HUM TV IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6730/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6730/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3544" tvg-logo="http://epg.it999.ru/img/3544.png" tvg-rec="0",HUM Sitaray IN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6731/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6731/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Cineman%20HD%20AM.png",CinemanTV AM
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/283/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/283/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/H1%20HD%20AM.png",H1 AM
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/601/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/601/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Armenia%20TV%20HD%20AM.png",Armenia TV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/605/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/605/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/ATV%20Hay%20TV%20HD%20AM.png",ATV Hay TV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/280/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/280/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Fresh%20HD%20AM.png",Fresh HD AM
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15112/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15112/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/H2%20HD%20AM.png",H2 AM
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15204/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15204/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Kentron%20HD%20AM.png",Kentron AM
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15205/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15205/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/ATV%20FHD%20AM.png",Atv HD AM
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15206/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15206/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/1%20Lurer%20HD%20AM.png",1Lurer AM
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/613/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/613/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Yerkir%20Media%20HD%20AM.png",Yerkir Media AM
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15209/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15209/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/21TV%20HD%20AM.png",Dar 21 AM
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15211/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15211/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/Nor%20Hayastan%20AM.png",Nor Hayastan AM
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15210/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15210/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2560" tvg-logo="http://epg.it999.ru/img/2560.png" tvg-rec="3",1TV Georgia
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7144/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7144/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2563" tvg-logo="http://epg.it999.ru/img/2563.png" tvg-rec="3",Imedi TV GE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2204/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2204/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="4291" tvg-logo="http://epg.it999.ru/img/4291.png" tvg-rec="3",Rustavi2
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7171/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7171/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2565" tvg-logo="http://epg.it999.ru/img/2565.png" tvg-rec="3",TV Pirveli
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7174/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7174/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7788" tvg-logo="http://epg.it999.ru/img/7788.png" tvg-rec="3",Dro TV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7166/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7166/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2564" tvg-logo="http://epg.it999.ru/img/2564.png" tvg-rec="3",TV 25
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2205/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2205/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="4286" tvg-logo="http://epg.it999.ru/img/4286.png" tvg-rec="3",POS TV HD GE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7150/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7150/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="6811" tvg-logo="http://epg.it999.ru/img/6811.png" tvg-rec="0",ODISHI HD GE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19327/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19327/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="6822" tvg-logo="http://epg.it999.ru/img/6822.png" tvg-rec="0",Agrotv HD GE
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19338/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19338/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7794" tvg-logo="http://epg.it999.ru/img/7794.png" tvg-rec="0",Silk Universal HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20147/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20147/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7798" tvg-logo="http://epg.it999.ru/img/7798.png" tvg-rec="0",Silk Movies Colection
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20151/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20151/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2556" tvg-logo="http://epg.it999.ru/img/2556.png" tvg-rec="3",CBC
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1050/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1050/index.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-logo="",Baku TV AZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16047/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/16047/index.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-logo="",ATV HD AZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16045/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/16045/index.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-logo="",CBC Sport AZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2193/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2193/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2551" tvg-logo="http://epg.it999.ru/img/2551.png" tvg-rec="3",ARB 24 HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2188/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2188/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2635" tvg-logo="http://epg.it999.ru/img/2635.png" tvg-rec="3",ARB TV HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2187/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2187/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2555" tvg-logo="http://epg.it999.ru/img/2555.png" tvg-rec="3",Ictimai TV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2195/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2195/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2552" tvg-logo="http://epg.it999.ru/img/2552.png" tvg-rec="3",ARB Gunes HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2189/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2189/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2134" tvg-logo="http://epg.it999.ru/img/2134.png" tvg-rec="3",AzTV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/966/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/966/index.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-logo="",Ulytau KZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14231/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/14231/index.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-logo="",КТК HD KZ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2211/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2211/index.m3u8
 #EXTINF:-1  group-title="亚洲频道" tvg-logo="",Qazaqstan International HD
 https://qazaqstantv-stream.qazcdn.com/international/international/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="http://1usd.tv/images/chIcons/570.png" group-title="亚洲频道",Qazaqstan KZ
@@ -1333,157 +1337,157 @@ https://liveh12.vtvprime.vn/hls/VTV4_HD/04.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-logo="https://foruda.gitee.com/images/1741212352188665187/c99f8be0_13827851.png",VTV5越南
 https://liveh12.vtvprime.vn/hls/VTV5_HD/04.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2252" tvg-logo="http://epg.it999.ru/img/2252.png" tvg-rec="3",Ion Television
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/901/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/901/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2253" tvg-logo="http://epg.it999.ru/img/2253.png" tvg-rec="3",NYCTV Life
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/902/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/902/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2258" tvg-logo="http://epg.it999.ru/img/2258.png" tvg-rec="3",NBC
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1081/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1081/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Telemundo HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1080/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1080/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",NBC New York HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1081/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1081/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",HGTV FHD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1084/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1084/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",WLIW HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1094/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1094/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",MeTV HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1096/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1096/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",WMBC-TV HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1098/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1098/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Univision HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1099/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1099/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",BET Her HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/30018/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/30018/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Comedy Central HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/30044/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/30044/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",ESPN Deportes HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/30063/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/30063/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",ESPNews HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/30066/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/30066/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Fuse HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/30081/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/30081/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",HDNet Movies HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/30102/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/30102/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",HSN HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/30109/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/30109/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Justice Central.TV HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/30120/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/30120/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",NFL Network US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31011/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31011/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Ovation TV HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31020/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31020/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",OWN HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31021/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31021/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Smithsonian Channel HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31061/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31061/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Willow HD US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31131/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31131/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2375" tvg-logo="http://epg.it999.ru/img/2375.png" tvg-rec="3",Disney XD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1082/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1082/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2376" tvg-logo="http://epg.it999.ru/img/2376.png" tvg-rec="3",AMC US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1083/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1083/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2327" tvg-logo="http://epg.it999.ru/img/2327.png" tvg-rec="3",ABC HD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1087/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1087/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2328" tvg-logo="http://epg.it999.ru/img/2328.png" tvg-rec="3",Fox 5 WNYW
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1086/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1086/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2329" tvg-logo="http://epg.it999.ru/img/2329.png" tvg-rec="3",My9NJ
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1088/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1088/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2333" tvg-logo="http://epg.it999.ru/img/2333.png" tvg-rec="3",WPIX-TV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1090/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1090/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2334" tvg-logo="http://epg.it999.ru/img/2334.png" tvg-rec="3",THIRTEEN
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1093/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1093/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2336" tvg-logo="http://epg.it999.ru/img/2336.png" tvg-rec="3",NJTV
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1095/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1095/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2342" tvg-logo="http://epg.it999.ru/img/2342.png" tvg-rec="3",美洲频道
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1101/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1101/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2343" tvg-logo="http://epg.it999.ru/img/2343.png" tvg-rec="3",TNT
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1102/1.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1102/1.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2344" tvg-logo="http://epg.it999.ru/img/2344.png" tvg-rec="3",TBS
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1103/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1103/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="425" tvg-logo="http://epg.it999.ru/img/425.png" tvg-rec="3",TLC
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1105/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1105/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2347" tvg-logo="http://epg.it999.ru/img/2347.png" tvg-rec="3",A&E
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1108/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/1108/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2128" tvg-logo="http://epg.it999.ru/img/2128.png" tvg-rec="3",CNBC
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/962/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/962/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="4562" tvg-logo="http://epg.it999.ru/img/4562.png" tvg-rec="0",NHL Network US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7225/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7225/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="4589" tvg-logo="http://epg.it999.ru/img/4589.png" tvg-rec="0",MSG  US
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7326/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/7326/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",ICI RDI HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6425/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6425/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3567" tvg-logo="http://epg.it999.ru/img/3567.png" tvg-rec="0",CTV Two Atlantic CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6423/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6423/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3571" tvg-logo="http://epg.it999.ru/img/3571.png" tvg-rec="0",Global Toronto HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6427/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6427/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3572" tvg-logo="http://epg.it999.ru/img/3572.png" tvg-rec="0",OMNI.1 HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6428/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6428/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",OMNI.2 HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6434/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6434/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3573" tvg-logo="http://epg.it999.ru/img/3573.png" tvg-rec="0",City TV Toronto HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6429/1.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6429/1.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3574" tvg-logo="http://epg.it999.ru/img/3574.png" tvg-rec="0",Yes TV HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6431/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6431/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",CHCH HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6432/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6432/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",CBC News Network HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6442/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6442/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",W Network HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6443/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6443/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",TSN 4 HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6445/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6445/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",History HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6453/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6453/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Food Network HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6464/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6464/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",BNN Bloomberg HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6465/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6465/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",CTV News Channel HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6468/1.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6468/1.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Treehouse HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6471/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6471/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Lifetime HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6484/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6484/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Makeful CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6495/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6495/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",CTV Toronto CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6496/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6496/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",CBC Toronto CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6497/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6497/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",CP 24 CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6501/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6501/index.m3u8
 #EXTINF:-1 group-title="美洲频道" tvg-logo="",Unis TV HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6532/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6532/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3580" tvg-logo="http://epg.it999.ru/img/3580.png" tvg-rec="0",TCTV2 CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6437/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6437/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3581" tvg-logo="http://epg.it999.ru/img/3581.png" tvg-rec="0",Sportsnet ONE HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6438/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6438/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3591" tvg-logo="http://epg.it999.ru/img/3591.png" tvg-rec="0",CMT Canada CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6448/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6448/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3592" tvg-logo="http://epg.it999.ru/img/3592.png" tvg-rec="0",Showcase HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6449/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6449/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3593" tvg-logo="http://epg.it999.ru/img/3593.png" tvg-rec="0",CTV Drama HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6450/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6450/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3594" tvg-logo="http://epg.it999.ru/img/3594.png" tvg-rec="0",Slice HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6451/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6451/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3597" tvg-logo="http://epg.it999.ru/img/3597.png" tvg-rec="0",CTV Comedy HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6454/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6454/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3601" tvg-logo="http://epg.it999.ru/img/3601.png" tvg-rec="0",Turner Classic Movies HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6458/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6458/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3602" tvg-logo="http://epg.it999.ru/img/3602.png" tvg-rec="0",CTV SCI-FI HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6459/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6459/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3607" tvg-logo="http://epg.it999.ru/img/3607.png" tvg-rec="0",Food Network HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6464/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6464/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3609" tvg-logo="http://epg.it999.ru/img/3609.png" tvg-rec="0",ABC Spark CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6466/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6466/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3624" tvg-logo="http://epg.it999.ru/img/3624.png" tvg-rec="0",Golf Channel HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6481/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6481/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3625" tvg-logo="http://epg.it999.ru/img/3625.png" tvg-rec="0",CNBC Canada CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6482/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6482/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3673" tvg-logo="http://epg.it999.ru/img/3673.png" tvg-rec="0",TV5 CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6531/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6531/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3677" tvg-logo="http://epg.it999.ru/img/3677.png" tvg-rec="0",NBC Buffalo HD CA
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6535/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/6535/index.m3u8
 #EXTINF:-1 group-title="4K超高清" tvg-logo="https://gitee.com/nhtr/rb/raw/master/TB/BJWS4K.png",北京4K
 http://8.138.7.223/tv/btime.php?id=bjws4k
 #EXTINF:-1 group-title="4K超高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png",上海4K
@@ -1513,37 +1517,37 @@ https://gd.060610.xyz/udp/239.253.43.99:5146
 #EXTINF:-1 group-title="4K超高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png",CCTV4K
 https://gd.060610.xyz/udp/239.77.1.180:5146
 #EXTINF:0 group-title="4K超高清" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",Russian Extreme UHD
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5003/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/5003/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="7255" tvg-logo="http://epg.it999.ru/img/7255.png" tvg-rec="0",Eleven 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20068/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/20068/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2801" tvg-logo="http://epg.it999.ru/img/2801.png" tvg-rec="3",Love Nature 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5001/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/5001/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5000/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/5000/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="5979" tvg-logo="http://epg.it999.ru/img/5979.png" tvg-rec="0",Глазами Туриста 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15191/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15191/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/4002/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/4002/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="4444" tvg-logo="http://epg.it999.ru/img/4444.png" tvg-rec="3",Наша Сибирь HD orig
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9330/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9330/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-rec="0",Museum 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14016/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/14016/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="7617" tvg-logo="http://epg.it999.ru/img/7617.png" tvg-rec="0",TravelXP 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14026/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/14026/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5002/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/5002/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19262/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19262/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="6232" tvg-logo="http://epg.it999.ru/img/6232.png" tvg-rec="0",Liberty Мульт 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18051/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18051/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="6229" tvg-logo="http://epg.it999.ru/img/6229.png" tvg-rec="0",Liberty Мульт UKR 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18044/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18044/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-rec="0",Sport 5 4K IL
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/12277/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/12277/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/4001/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/4001/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai 4K
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19091/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19091/index.m3u8
 #EXTINF:-1,tvg-id=""tvg-logo="https://foruda.gitee.com/images/1740494485981640118/676c98b3_13827851.png" group-title="港台频道",凤凰中文
 http://r.jdshipin.com/cCCzW
 http://cdn6.163189.xyz/163189/fhzw
